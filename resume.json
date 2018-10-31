@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Noura Moualhi",
+    "label": "Software Engineer - SAP UI5/MII technical consultant",
+    "picture": "https://lh6.googleusercontent.com/InMlTKscOCzn2cMM1c7bKdv6f5xdhayM3_c8bpyDqtqcnBwQW_sXT5RrzVPRhN_USKPRVKbyBwzsOgWLL9VApqnq5YtVxUC2MYII-cQRZ8fHTmV1oKy5Vpwwe4aaLXiuzjk1t_H2",
+    "email": "noura.moualhi@esprit.tn",
+    "phone": "(+216) 26 78 16 29",
+    "website": "",
+    "summary": "always eager to learn new technologies, unbelievably ambitious, and extremly determined to achieve my tasks successfully",
+    "location": {
+      "address": "Residence Les Roses , Les Roses 4, Appartement 75",
+      "postalCode": "2080",
+      "city": "Ariana",
+      "countryCode": "TN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "noura90",
+        "url": "https://github.com/noura90"
+      }
+    ]
+  },
+  "work": [{
+    "company": "Faurecia",
+    "position": "SAP Manufacturing Intelligence (MII) DEVELOPER",
+    "website": "www.faurecia.com/fr",
+    "startDate": "2018-03-12",
+    "summary": "Design and Development of Faurecia projects",
+    "highlights": [
+      "Help maintenance for Faurecia projects ",
+      "Develop business logic services (transactions)",
+      "Create user interfaces using web development technologies like sapui5 and javascript",
+      "Design technical specifications for new shopfloor activities"
+    ]
+  },{
+    "company": "Focus",
+    "position": "End of Study Internship",
+    "website": "http://www.focus-corporation.com/",
+    "startDate": "2017-05-01",
+    "endDate": "2017-08-30",
+    "summary": "Design and Development of an internal web application for employees performances' evaluation for Focus:",
+    "highlights": [
+      "Create UI mockups using Build (https://www.build.me/splashapp/) and SAPUI5 explored",
+      "Assign user roles and create authorizations using adequate transactions",
+      "Create complex CRUD Odata services based on authorizations",
+      "Create  SAPUI5 Fiori Master-Detail web projects based on each role",
+      "Create SAPUI5 Fiori Worklist web projects based on each role",
+      "Create an overview page (OVP) Fiori app based and design tiles accessible from the fiori launchpad"
+    ]
+  }],
+  "volunteer": [
+    {
+      "organization": "Esprit",
+      "position": "Student",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-03-01",
+      "summary": "Stochastic Approach for Bonus Malus systems",
+      "highlights": [
+        "Modelling of a bonus malus system using Markov chains and poisson regression in python"
+      ]
+    },
+    {
+      "organization": "Esprit",
+      "position": "Student",
+      "website": "",
+      "startDate": "2015-02-01",
+      "endDate": "2015-06-01",
+      "summary": "Virtual Stock Portfolio Management Application",
+      "highlights": [
+        "Put in place architecture for web application",
+        "Develop the business logic in J2EE"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Esprit ingenierie en informatique",
+      "area": "Computer Science",
+      "startDate": "2013-09-01",
+      "endDate": "2018-06-30"
+    },
+    {
+      "institution": "Université de Caen Basse Normandie",
+      "area": "Applied Mathematics",
+      "startDate": "2012-09-01",
+      "endDate": "2013-06-01"
+    },
+    {
+      "institution": "EnsiCaen",
+      "area": "Electronic engineering",
+      "startDate": "2011-09-01",
+      "endDate": "2012-06-01"
+    },
+    {
+      "institution": "Ecole préparatoire Ipest La Marsa",
+      "area": "Preparatory school",
+      "startDate": "2009-09-01",
+      "endDate": "2011-06-30"
+    },
+    {
+      "institution": "Lycée Pilote Ariana",
+      "area": "Baccaluréat - Mathematics",
+      "startDate": "2009-09-15",
+      "endDate": "2009-06-30"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SAP",
+      "level": "Intermediate",
+      "keywords": [
+        "Fiori",
+        "UI5",
+        "OData",
+        "Authorization and Users management",
+        "Transactions",
+        "ABAP"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "PHP"
+      ]
+    },
+    {
+      "name": "DataBases",
+      "level": "Master",
+      "keywords": [
+        "Oracle",
+        "MySQL",
+        "SQL",
+        "Transact-SQL"
+      ]
+    },
+    {
+      "name": "IDE",
+      "level": "Master",
+      "keywords": [
+        "Netbeans",
+        "Eclipse",
+        "JBoss",
+        "Microsoft Visual Studio 2010"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "Java",
+        "PHP",
+        "C",
+        "C++",
+        "JavaEE",
+        "javascript",
+        "R",
+        "C#",
+        "SQL, PL/SQL"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "Intermediate",
+      "keywords": [
+        "Windows",
+        "Linux"
+      ]
+    },{
+      "name": "Text Editors",
+      "level": "Master",
+      "keywords": [
+        "Notepad++",
+        "Sublime Text",
+        "Atom"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "basic"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tennis",
+      "keywords": []
+    },
+    {
+      "name": "Travelling",
+      "keywords": []
+    },
+    {
+      "name": "Self Development",
+      "keywords": []
+    },
+    {
+      "name": "Music",
+      "keywords": []
+    },
+    {
+      "name": "Cooking",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
