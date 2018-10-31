@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Noura Moualhi",
-    "label": "Software Engineer - SAP UI5/MII technical consultant",
+    "label": "Développeur SAPUI5/ Consultante technique SAP MII/ME",
     "picture": "https://lh6.googleusercontent.com/InMlTKscOCzn2cMM1c7bKdv6f5xdhayM3_c8bpyDqtqcnBwQW_sXT5RrzVPRhN_USKPRVKbyBwzsOgWLL9VApqnq5YtVxUC2MYII-cQRZ8fHTmV1oKy5Vpwwe4aaLXiuzjk1t_H2",
     "email": "noura.moualhi@esprit.tn",
     "phone": "(+216) 26 78 16 29",
-    "website": "",
-    "summary": "always eager to learn new technologies, unbelievably ambitious, and extremly determined to achieve my tasks successfully",
+    "website": "https://www.linkedin.com/in/noura-moualhi/",
+    "summary": "Développeur junior passionnée par les technologies web avec une capacité d'apprentissage et d'adapatation extraordinaire ",
     "location": {
       "address": "Residence Les Roses , Les Roses 4, Appartement 75",
       "postalCode": "2080",
@@ -22,94 +22,94 @@
       }
     ]
   },
-  "work": [{
+  "Expérience Professionnelle": [{
     "company": "Faurecia",
-    "position": "SAP Manufacturing Intelligence (MII) DEVELOPER",
+    "position": "Développeur SAPUI5/ Consultante technique SAP MII/ME",
     "website": "www.faurecia.com/fr",
     "startDate": "2018-03-12",
-    "summary": "Design and Development of Faurecia projects",
+    "summary": "Conception et réalisation des applications en Fullstack  / support technique ",
     "highlights": [
-      "Help maintenance for Faurecia projects ",
-      "Develop business logic services (transactions)",
-      "Create user interfaces using web development technologies like sapui5 and javascript",
-      "Design technical specifications for new shopfloor activities"
+      "Aider à la maintenance des projets internes (support technique)",
+      "Développement des services (couche métier: transactions),
+      "conception et développement des interfaces utilisateur en utilisant javascript et SAPUI5",
+      "élaboration des spécifications techniques"
+      "Help maintenance for Faurecia projects "
     ]
   },{
     "company": "Focus",
-    "position": "End of Study Internship",
+    "position": "Stage de fin d'études",
     "website": "http://www.focus-corporation.com/",
     "startDate": "2017-05-01",
     "endDate": "2017-08-30",
-    "summary": "Design and Development of an internal web application for employees performances' evaluation for Focus:",
+    "summary": "Conception et réalisation d'une application web: Systéme d'évaluation des collaborateurs de Focus",
     "highlights": [
-      "Create UI mockups using Build (https://www.build.me/splashapp/) and SAPUI5 explored",
-      "Assign user roles and create authorizations using adequate transactions",
-      "Create complex CRUD Odata services based on authorizations",
-      "Create  SAPUI5 Fiori Master-Detail web projects based on each role",
-      "Create SAPUI5 Fiori Worklist web projects based on each role",
-      "Create an overview page (OVP) Fiori app based and design tiles accessible from the fiori launchpad"
+      "Création des mockups en utlisant Build (https://www.build.me/splashapp/) et SAPUI5 explored",
+      "Création des autorisations et des rôles en utilisant les transactions correspondentes",
+      "Création des services CRUD en utilisant ODATA",
+      "Création des applications web SAPUI5 FIORI Master-Detail"
+      "Création des applications web SAPUI5 Fiori Worklist
     ]
   }],
-  "volunteer": [
+  "Expérience académique": [
     {
       "organization": "Esprit",
-      "position": "Student",
+      "position": "Etudiante",
       "website": "",
       "startDate": "2018-01-01",
       "endDate": "2018-03-01",
-      "summary": "Stochastic Approach for Bonus Malus systems",
+      "summary": "Approche stochastique des systèmes Bonus Malus",
       "highlights": [
-        "Modelling of a bonus malus system using Markov chains and poisson regression in python"
+        "Modélisation d'un système bonus malus en utilisant les chaînes de Markov et la régression de Poisson avec Python"
       ]
     },
     {
       "organization": "Esprit",
-      "position": "Student",
+      "position": "Etudiante",
       "website": "",
       "startDate": "2015-02-01",
       "endDate": "2015-06-01",
-      "summary": "Virtual Stock Portfolio Management Application",
+      "summary": "Réalisation d'une application web JEE: Gestion d'un portfolio virtuel ",
       "highlights": [
-        "Put in place architecture for web application",
-        "Develop the business logic in J2EE"
+        "Réalisation des interfaces utilisateurs en utilisant JSF ",
+        "Réalisation de la couche métier en utilisant EJB"
       ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "Esprit ingenierie en informatique",
-      "area": "Computer Science",
+      "area": "Génie Logiciel",
       "startDate": "2013-09-01",
       "endDate": "2018-06-30"
     },
     {
       "institution": "Université de Caen Basse Normandie",
-      "area": "Applied Mathematics",
+      "area": "Mathématiques appliquées",
       "startDate": "2012-09-01",
       "endDate": "2013-06-01"
     },
     {
       "institution": "EnsiCaen",
-      "area": "Electronic engineering",
+      "area": "Génie électrique",
       "startDate": "2011-09-01",
       "endDate": "2012-06-01"
     },
     {
       "institution": "Ecole préparatoire Ipest La Marsa",
-      "area": "Preparatory school",
+      "area": "Ecole préparatoire",
       "startDate": "2009-09-01",
       "endDate": "2011-06-30"
     },
     {
       "institution": "Lycée Pilote Ariana",
-      "area": "Baccaluréat - Mathematics",
+      "area": "Baccaluréat - Mathématiques",
       "startDate": "2009-09-15",
       "endDate": "2009-06-30"
     }
   ],
   "awards": [],
   "publications": [],
-  "skills": [
+  "Compétences acquises": [
     {
       "name": "SAP",
       "level": "Intermediate",
@@ -123,18 +123,18 @@
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Développement web",
       "level": "Intermediate",
       "keywords": [
         "HTML5",
         "CSS",
         "Javascript",
         "jQuery",
-        "PHP"
+        "AJAX"
       ]
     },
     {
-      "name": "DataBases",
+      "name": "Base de données",
       "level": "Master",
       "keywords": [
         "Oracle",
@@ -150,22 +150,23 @@
         "Netbeans",
         "Eclipse",
         "JBoss",
+        "SAP NetWeaver"
         "Microsoft Visual Studio 2010"
       ]
     },
     {
-      "name": "Programming Languages",
+      "name": "Languages de programmation",
       "level": "Intermediate",
       "keywords": [
-        "Java",
-        "PHP",
+        "Java"
         "C",
         "C++",
         "JavaEE",
         "javascript",
         "R",
         "C#",
-        "SQL, PL/SQL"
+        "SQL, PL/SQL",
+        "Python"
       ]
     },
     {
@@ -176,7 +177,7 @@
         "Linux"
       ]
     },{
-      "name": "Text Editors",
+      "name": "Editeurs de Texte",
       "level": "Master",
       "keywords": [
         "Notepad++",
@@ -185,43 +186,43 @@
       ]
     }
   ],
-  "languages": [
+  "Langues": [
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Anglais",
+      "fluency": "Courant"
     },
     {
-      "language": "French",
-      "fluency": "Fluent"
+      "language": "Français",
+      "fluency": "Courant"
     },
     {
-      "language": "German",
-      "fluency": "basic"
+      "language": "Allemand",
+      "fluency": "Basique"
     },
     {
-      "language": "Arabic",
-      "fluency": "Native speaker"
+      "language": "Arabe",
+      "fluency": "Langue maternelle"
     }
   ],
-  "interests": [
+  "Centres d'intérêt": [
     {
       "name": "Tennis",
       "keywords": []
     },
     {
-      "name": "Travelling",
+      "name": "Voyage",
       "keywords": []
     },
     {
-      "name": "Self Development",
+      "name": "Développement de soi",
       "keywords": []
     },
     {
-      "name": "Music",
+      "name": "Musique",
       "keywords": []
     },
     {
-      "name": "Cooking",
+      "name": "Cuisine",
       "keywords": []
     }
   ],
